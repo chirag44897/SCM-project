@@ -191,7 +191,7 @@ main hr {
 .vertical-desc {
     position: relative;
     top: 12px;
-    color: rgb(7, 29, 225);
+    color: orange;
     width: 150px;
     font-size: 9px;
     left: 22px;
