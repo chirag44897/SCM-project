@@ -4,10 +4,7 @@
 }
 
 body {
-    background-image: url("background.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background: linear-gradient(to right, #001f3f, #0074D9);
     color: white;
     font-family: 'poppins', sans-serif;
     box-sizing: border-box;
@@ -191,7 +188,7 @@ main hr {
 .vertical-desc {
     position: relative;
     top: 12px;
-    color: rgb(7, 29, 225);
+    color: orange;
     width: 150px;
     font-size: 9px;
     left: 22px;
@@ -225,7 +222,7 @@ h2{
 
 p {
     font-size: 1.2em;
-    color: #666;
+    color: #98c72c;
 }
 .service-container {
         display: flex;
