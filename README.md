@@ -13,7 +13,6 @@ This website is designed to showcase our skills, projects, experience, and achie
 - Clean, modern UI design
 - Resume Download section
 - Visit Github link
-- A photo upload section
 - Contact details
 - About and the services section
 
