@@ -10,7 +10,6 @@ This website is designed to showcase our skills, projects, experience, and achie
 
 ## 🛠️ Features
 
-- Fully responsive and mobile-friendly
 - Clean, modern UI design
 - Resume Download section
 - Visit Github link
