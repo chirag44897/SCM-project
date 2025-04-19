@@ -1,4 +1,3 @@
-#CI pipeline to run tests on push/PR
 name: CI Workflow
 
 on:
